@@ -10,7 +10,7 @@ I'm a final-year student passionate about **Web Development**. I enjoy building 
 - ☁️ Gained experience from In-plant training in **Cloud Computing**
  
 ### 🏆 Coding Profiles:
-- 🌱[GeeksforGeeks](https://www.geeksforgeeks.org/user/gayathrif997/) 
+- 🌱[GeeksforGeeks](https://www.geeksforgeeks.org/user/sindhujqgzo/) 
 - 💡[LeetCode](https://leetcode.com/u/sindhujaaa_m/)   
   
 ### 🛠️ Technologies & Tools:
