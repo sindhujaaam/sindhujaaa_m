@@ -1,17 +1,17 @@
-# Hello, I'm Sindhuja M 👋  
- 
-I'm a final-year student passionate about Web Development. I enjoy building websites and web applications using tools like HTML, CSS, and JavaScript. I’ve worked on several beginner-friendly projects and love learning new technologies to improve my skills. 
- 
-### 🚀 About Me:
+# 👋 Hello, I'm Sindhuja M
+
+I'm a final-year student passionate about **Web Development**. I enjoy building websites and web applications using tools like **HTML**, **CSS**, and **JavaScript**. I’ve worked on several beginner-friendly projects and love learning new technologies to improve my skills.
+
+## 🚀 About Me
 - 🎓 **Intern** at **LTIMindtree**  
-- 🎓 **Ex-Intern** at **Virtual Tech Solution**  
+- 💼 **Ex-Intern** at **Virtual Tech Solution**  
 - 🤝 I’m open to collaborating on beginner-friendly projects and learning new technologies  
-- 🎓 I’m building a foundation in various domains  
-- 🎓 Gained experience from In-plant training in **Cloud Computing**   
+- 📚 I’m building a foundation in various domains  
+- ☁️ Gained experience from In-plant training in **Cloud Computing**
  
 ### 🏆 Coding Profiles:
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/gayathrif997/) 
-- [LeetCode](https://leetcode.com/u/sindhujaaa_m/)   
+- 🌱[GeeksforGeeks](https://www.geeksforgeeks.org/user/gayathrif997/) 
+- 💡[LeetCode](https://leetcode.com/u/sindhujaaa_m/)   
   
 ### 🛠️ Technologies & Tools:
 [<img src="https://img.shields.io/badge/-ESP–IDF-323330?logo=espressif&logoColor=white">](#)
