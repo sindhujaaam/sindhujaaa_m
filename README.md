@@ -24,5 +24,5 @@ I'm a final-year student passionate about **Web Development**. I enjoy building 
 [<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white">](#)
 [<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">](#)
  
-### 📫 How to reach me:
+### 📫 Reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sindhuja-m-8b874a2b3)
