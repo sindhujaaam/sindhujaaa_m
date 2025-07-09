@@ -1,4 +1,3 @@
-# sindhujaaa_m
 # Hello, I'm Sindhuja M 👋  
  
 I'm a final-year student passionate about Web Development. I enjoy building websites and web applications using tools like HTML, CSS, and JavaScript. I’ve worked on several beginner-friendly projects and love learning new technologies to improve my skills. 
