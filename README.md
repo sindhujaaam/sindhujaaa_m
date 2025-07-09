@@ -18,7 +18,7 @@ I'm a final-year student passionate about Web Development. I enjoy building webs
 [<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">](#)
 [<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">](#)
 [<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white">](#)
-[<img src="https://img.shields.io/badge/-Java-007396?logo=javascript&logoColor=white">](#)
+[<img src="https://img.shields.io/badge/-JavaScript-007396?logo=javascript&logoColor=white">](#)
 [<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">](#)
 [<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white">](#)
 [<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white">](#)
